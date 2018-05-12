@@ -1,0 +1,29 @@
+_repo: St.-George-for-England--A-Tale-of-Cressy-and-Poitiers_34886
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2011-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Edward III, 1327-1377 -- Fiction'
+- !lcc 'PZ'
+title: 'St. George for England: A Tale of Cressy and Poitiers'
+url: http://www.gutenberg.org/ebooks/34886
